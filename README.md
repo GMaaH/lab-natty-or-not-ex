@@ -1,4 +1,4 @@
-# Criação de uma Música e Arte de Capa
+# Criação de uma Música e Arte de Capa: Paper Skies!
 
 ## 📒 Descrição
 Criei uma música no estilo rock com uma letra escrita pelo ChatGPT e arranjos, estilo musical e voz gerados pelo site MakeBestMusic. Para aprimorar o projeto, decidi criar uma arte especial para essa obra!
