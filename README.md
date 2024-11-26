@@ -14,7 +14,7 @@ Decidi explorar meu estilo favorito, o indie rock. Pedi ao ChatGPT para criar um
 
 ## 🚀 Resultados
 Apreciem uma música crianda interamente com IA.
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O ÁUDIO E CAPA AQUI]()
 
 
 ## 💭 Reflexão (Opcional)
