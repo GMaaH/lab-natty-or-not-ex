@@ -13,8 +13,8 @@ Criei uma música no estilo rock com uma letra escrita pelo ChatGPT e arranjos, 
 Decidi explorar meu estilo favorito, o indie rock. Pedi ao ChatGPT para criar uma letra e, em seguida, utilizei o MakeBestMusic para definir a melodia. Por fim, finalizei o projeto com uma arte de capa personalizada.
 
 ## 🚀 Resultados
-Apreciem uma música crianda interamente com IA.
-[ÁUDIO] (https://github.com/GMaaH/lab-natty-or-not-ex/blob/main/Paper%20Skies.mp3) e [CAPA] (https://github.com/GMaaH/lab-natty-or-not-ex/blob/main/ARTE%20PAPER%20SKIES.png)
+[Apreciem uma música crianda interamente com IA]
+([https://github.com/GMaaH/lab-natty-or-not-ex/blob/main/Paper%20Skies.mp3]
 
 
 ## 💭 Reflexão (Opcional)
