@@ -14,7 +14,7 @@ Decidi explorar meu estilo favorito, o indie rock. Pedi ao ChatGPT para criar um
 
 ## 🚀 Resultados
 Apreciem uma música crianda interamente com IA.
-[LINK PARA O ÁUDIO E CAPA AQUI]()
+[ÁUDIO](https://github.com/GMaaH/lab-natty-or-not-ex/blob/main/Paper%20Skies.mp3)[CAPA](https://github.com/GMaaH/lab-natty-or-not-ex/blob/main/ARTE%20PAPER%20SKIES.png)
 
 
 ## 💭 Reflexão (Opcional)
